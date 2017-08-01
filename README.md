@@ -1,4 +1,6 @@
-# hapi-swagger
+# hapi-swagger-next
+
+> A fork of the excellent [hapi-swagger](https://github.com/glennjones/hapi-swagger) module thst delivers the latest version of the Swagger UI
 
 This is a [OpenAPI (aka Swagger)](https://openapis.org/) plug-in for [HAPI](http://hapijs.com/) When installed it will self document the API interface
 in a project.
