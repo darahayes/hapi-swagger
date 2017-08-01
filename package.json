@@ -1,11 +1,14 @@
 {
-  "name": "hapi-swagger",
+  "name": "hapi-swagger-next",
   "description": "A swagger documentation UI generator plugin for hapi",
-  "version": "7.7.0",
-  "author": "Glenn Jones",
+  "version": "1.0.0",
+  "authors": [
+    "Glenn Jones",
+    "Dara Hayes"
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/glennjones/hapi-swagger.git"
+    "url": "git://github.com/darahayes/hapi-swagger.git"
   },
   "main": "index.js",
   "keywords": [
