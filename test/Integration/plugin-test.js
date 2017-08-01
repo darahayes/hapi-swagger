@@ -297,7 +297,7 @@ lab.experiment('plugin', () => {
                     expect(response.statusCode).to.equal(200);
                     const htmlContent = response.result;
                     expect(htmlContent).to.contain([
-                        '/implicitPrefix/swaggerui/swagger-ui.js',
+                        '/implicitPrefix/swaggerui/swagger-ui-bundle.js',
                         '/implicitPrefix/swagger.json'
                     ]);
 
